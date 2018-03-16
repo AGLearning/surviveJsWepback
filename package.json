@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/AGLearning/surviveJsWepback/issues"
   },
-  "homepage": "https://github.com/AGLearning/surviveJsWepback#readme"
+  "homepage": "https://github.com/AGLearning/surviveJsWepback#readme",
+  "devDependencies": {
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12"
+  }
 }
