@@ -6,4 +6,8 @@ module.exports = {
       title: "Webpack demo",
     }),
   ],
+  devServer: {
+    open: true,
+    overlay: true
+  },
 };
